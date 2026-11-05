@@ -142,7 +142,7 @@ spectral bandwidth, zero-crossing rate, RMS energy.
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/interpretable-speech-dementia-screening.git
+git clone https://github.com//ARNiteshKumar/interpretable-speech-dementia-screening.git
 cd interpretable-speech-dementia-screening
 pip install -r requirements.txt
 ```
