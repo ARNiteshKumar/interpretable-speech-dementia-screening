@@ -1,0 +1,26 @@
+# data (never commit DementiaBank material)
+*.wav
+*.mp3
+*.cha
+data/
+work/
+*.zip
+
+# caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.cache/
+*.npy
+*.pt
+*.ckpt
+
+# env
+.venv/
+venv/
+.env
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
